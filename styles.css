@@ -1,16 +1,17 @@
 body {
     background-color: #ebb8dd;
 }
-h1 {
+h {
     font-family: sans-serif;
 }
 a {
     font-family: sans-serif;
 }
-div {
+text-box {
     width: 320px;
     height: 50px;
     padding: 10px;
     border: 5px solid purple;
     margin: 0;
+    display: inline-block;
 }
