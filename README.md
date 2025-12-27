@@ -7,4 +7,3 @@
 <button type="button" onclick="alert('they hit the second tower.')">
     button test!!!
 </button>
-</body>
