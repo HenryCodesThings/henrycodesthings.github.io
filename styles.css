@@ -11,6 +11,6 @@ div {
     width: 320px;
     height: 50px;
     padding: 10px;
-    border: 5px purple;
+    border: 5px solid purple;
     margin: 0;
 }
