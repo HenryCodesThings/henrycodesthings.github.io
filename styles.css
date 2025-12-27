@@ -1,15 +1,15 @@
 body {
     background-color: #ebb8dd;
 }
-h {
+p {
     font-family: sans-serif;
 }
 a {
     font-family: sans-serif;
 }
-text-box {
+.text-box {
     width: 320px;
-    height: 50px;
+    height: 70px;
     padding: 10px;
     border: 5px solid purple;
     margin: 0;
