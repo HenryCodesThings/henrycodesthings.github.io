@@ -13,7 +13,28 @@ a {
     padding: 10px;
     border: 5px solid purple;
     background-color: white;
-    border-radius: 10px;
+    border-radius: 25px;
     margin: 0;
     display: inline-block;
+    transition: border-color 0.3s ease;
+}
+.text-box:hover {
+    border-color: lightgray
+}
+
+
+
+.text-box2 {
+    width: 320px;
+    height: 95px;
+    padding: 10px;
+    border: 5px solid purple;
+    background-color: white;
+    border-radius: 25px;
+    margin: 0;
+    display: inline-block;
+    transition: border-color 0.3s ease;
+}
+.text-box2:hover {
+    border-color: lightgray
 }
