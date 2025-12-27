@@ -16,7 +16,7 @@ a {
     border-radius: 25px;
     margin: 0;
     display: inline-block;
-    transition: border-color 0.3s ease;
+    transition: background-color 0.3s ease;
 }
 .text-box:hover {
     background-color: lightgray;
@@ -33,7 +33,7 @@ a {
     border-radius: 25px;
     margin: 0;
     display: inline-block;
-    transition: border-color 0.3s ease;
+    transition: background-color 0.3s ease;
 }
 .text-box2:hover {
     background-color: lightgray;
