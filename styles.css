@@ -19,7 +19,7 @@ a {
     transition: border-color 0.3s ease;
 }
 .text-box:hover {
-    border-color: lightgray;
+    background-color: lightgray;
 }
 
 
@@ -36,5 +36,5 @@ a {
     transition: border-color 0.3s ease;
 }
 .text-box2:hover {
-    border-color: lightgray;
+    background-color: lightgray;
 }
