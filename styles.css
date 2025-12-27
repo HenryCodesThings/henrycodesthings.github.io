@@ -1,0 +1,16 @@
+body {
+    background-color: #ebb8dd;
+}
+h {
+    font-family: sans-serif;
+}
+a {
+    font-family: sans-serif;
+}
+div {
+    width: 320px;
+    height: 50px;
+    padding: 10px;
+    border: 5px purple;
+    margin: 0;
+}
