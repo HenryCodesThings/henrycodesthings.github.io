@@ -1,6 +1,13 @@
 body {
     background-color: #ebb8dd;
 }
+html, body {
+    margin: 0;
+    padding: 0;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: sans-serif;
+}
 p {
     font-family: sans-serif;
 }
@@ -17,6 +24,7 @@ a {
     margin: 0;
     display: inline-block;
     transition: background-color 0.3s ease;
+    font-size: 24px;
 }
 .text-box:hover {
     background-color: lightgray;
@@ -34,7 +42,33 @@ a {
     margin: 0;
     display: inline-block;
     transition: background-color 0.3s ease;
+    font-size: 18px;
 }
 .text-box2:hover {
     background-color: lightgray;
+}
+
+
+.footer {
+    width: 95%;
+    height: 50px;
+    background-color: white;
+    display: inline-block;
+    transition: background-color 0.3s ease;
+    position:absolute; bottom: 0px;
+    position: absolute; right: 50px;
+    border-radius: 10px;
+    border: 5px solid purple
+}
+.footer:hover {
+    background-color: lightgray;
+}
+
+.bottomaboutme {
+    position: absolute; bottom: 35px;
+    position:absolute; left: 50px;
+}
+.bottombutton {
+    position: absolute; bottom: 35px;
+    position:absolute; left: 125px;
 }
