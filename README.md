@@ -5,6 +5,11 @@
 <h1 class="text-box2">Welcome to my first ever website!</h1>
 <a href="henrycodesthings.github.io"> hyperlink test </a>
 <p class="text-box">This is a cool ass website, with some cool ass text, a cool ass button, and a cool ass border around this cool ass text.</p>
+
 <button type="button" onclick="alert('they hit the second tower.')">
     button test!!!
 </button>
+
+<a href="henrycodesthings.github.io/about_me.html">
+    <button>About me</button>
+</a>
