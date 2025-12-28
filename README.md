@@ -10,6 +10,4 @@
     button test!!!
 </button>
 
-<a href="henrycodesthings.github.io/about_me.md">
-    <button>About me</button>
-</a>
+<a href="henrycodesthings.github.io/about_me.md">About me</a>
