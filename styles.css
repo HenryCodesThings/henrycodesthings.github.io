@@ -88,3 +88,7 @@ a {
 .aboutmebox:hover {
     background-color: lightgray;
 }
+.homepage {
+        position: absolute; bottom: 35px;
+        position: absolute; left: 225px;
+}
